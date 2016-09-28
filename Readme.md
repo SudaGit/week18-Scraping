@@ -1,0 +1,1 @@
+localhost:3000/joblist to get scraped data from indeed.com
